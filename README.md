@@ -64,7 +64,7 @@ Los datos fueron analizados y visualizados mediante gráficos de barras, tortas 
 ## 🧑‍💻 Autor
 
 **Cristian González**  
-GitHub: [@tuusuario](https://github.com/tuusuario)
+GitHub: [@crackgonzalez](https://github.com/crackgonzalez)
 
 ---
 

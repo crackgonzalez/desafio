@@ -90,7 +90,7 @@ Aunque Tienda Uno tiene el ingreso más alto, su calificación promedio es la m�
 ## 🧑‍💻 Autor
 
 **Cristian González**  
-GitHub: [@tuusuario](https://github.com/tuusuario)
+GitHub: [@crackgonzalez](https://github.com/crackgonzalez)
 
 ---
 
